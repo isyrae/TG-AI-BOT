@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 <h1 align="center">🧠 TG-AI-BOT</h1>
 <p align="center">
   <img src="https://files.catbox.moe/gq66gs.png" width="500"/>
